@@ -1,0 +1,87 @@
+/* setup ---------------------------------------------*/
+*,
+*::after,
+*::before{padding: 0;
+margin: 0;
+border: 0;
+box-sizing:border-box;}
+
+a{
+    color:inherit;
+    text-decoration: none;
+}
+body{background-image: url(https://lh3.googleusercontent.com/proxy/GI5vDzFk-W0sDn3Rd4-9RsDLmxWpRmE5NqgEgAsF22XQZJBcxggsIOKFNYupqmYrJkV0fWru3sAMfVPndw3_nbFonL5qvTz-QoEa3VNtss2QM__WK6Axs1C3ncIUdIAjPQxxxlCqn8fEoNXHvjAo);}
+.wrapper{
+
+    background-color: #fff;
+    background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw0HBwcHBw0NBwcHBw0HBwcHDRAICQcNFREWIhURHxUYHSggGBolJxUVITEhJSkrLi4uFx8zODMsNygtLisBCgoKDQ0NDg0PGisZFRkrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrK//AABEIAKgBLAMBIgACEQEDEQH/xAAXAAEBAQEAAAAAAAAAAAAAAAAAAgEG/8QAFRABAQAAAAAAAAAAAAAAAAAAABH/xAAYAQEBAQEBAAAAAAAAAAAAAAAAAwIGAf/EABYRAQEBAAAAAAAAAAAAAAAAAAAREv/aAAwDAQACEQMRAD8A7KlTSuOy6mKpU0pkiqVNKZIqlRSmSLpUUpki6VFKZIulRSmSLpUUpki6VFKZIulRSmSLpUUpki6VFKZIulRSmSLpUUpki6VFKZIulRSmSLpUUpki6VFKZIulRSmSJpUVtWjcVSppSEVSprKQi6VNZTJF0qaUyRVKitpCKpUVtIRVKilIRdKmspCLpUVtIRVKilIRdKmspCLpUVtIRVKmspCLpU0pCKpUVtIRVKmspCLpU0pCKpUVtIRFKitqsUiqVFKQi6VFKQi6VFbSEVSopSEXSprK9hF0qK2vIRVKilIRdKmspCLpUVtIRVKilIRdKmspCLpUVtIRVKilIRdKmspCLpUVtIRVKilIRdKmspCLpUVtIRFKilWy3F0qKUyRdKilMkXSopTJF0qKUyRdKilMkXSopTJF0qKUyRdKilMkXSopTJF0qKUyRdKilMkXSopTJF0qKUyRdKilMkXSopTJF0qKUyRdKilMkXSopTJE0qKVbLcXSopTJF0qKUyRdKilMkXSoKZIulRQyRdKmlMkVSppTJFUqaUyRVKmlMkVSppTJFUqaUyRVKmlMkVSppTJFUqaUyRVKmlMkVSppTJFUqaUyRVKmlMkRSppVstxVKmlMkVSppTJFUqaUyRVKmlMkVSppTJFUqaUyRVKmlMkVSppTJFUqaUyRVKmlMkVSppTJFUqaUhFUqaUhFUqaUhFUqaUhFUqaUhFUqaUhFUqaUhECa2q5bjRNKZIoTSmSLrE0pkim1FKQihNKQi6VNKQiqVNKQiqVNKZIqlTSkIqlTSkIqlTSmSKpU0pkiqVFbSEVSprKQi6VNKZIqlRW0hFUqaykIulTSmSIpU0qsbiqVNKQiqVNKQiqVNKQiqVNKQiqVNKQiqVNKQiqVNKQiqVNKQiqVNKQiqVNKQiqVNKQiqVNKQiqVNKQiqVNKQiqVNKQiqVNKQiqVNKQiqVNKQiaVFKrG4ulQUhF0qKUhF0qKUhF0qKUhF0qKUhF0qKUhF0qKUhF0qKUhF0qKUhF0qKUhF0qKUhF0qaUhFUqaUhFUqaUhFUqaUhFUqaUhFUqaUhFUqaUhE0qWKxqLKlhCLEBCLpUNIRRUsIRdKkIRVKkIRVKkIRVKkIRVKkIRVKkIRVKkIRVEhCKpUhCKKkIRVEhCKpUhCKKkIRVEhCJpQUaAAKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD//2Q==);
+max-width: 924px;
+margin: 0 auto;}
+
+.page{
+    font-size: large;
+    font-family: sans-serif;
+    color:#2d293a;
+    height: 90%;
+    width: 85%;
+    text-align: center;
+}
+a :hover{
+    background-color: #9f66be;}
+
+img {
+    width:  400px;
+    height: 350px;
+    object-fit: cover;
+    border-radius: 70%;
+    max-width: 900px;
+  }
+  .page{margin: 0 auto;
+     background-image: url("https://img.freepik.com/free-vector/beautiful-watercolor-background_23-2148486848.jpg?size=626&ext=jpg&ga=GA1.1.632798143.1705449600&semt=ais");
+    background-size: cover;
+    }
+    .pag{height: 120vh;
+        width: 90%;
+        margin: 0 auto;
+    }
+    .nav{
+        
+        text-align: center;
+        background-image: url(https://chelyabinsk.oboitd.ru/images/goods/big/20200129094216_Cvety_6-094.jpg);
+    }
+    .nav2{ max-width: fit-content;
+        text-align: center;
+background-image: url(https://chelyabinsk.oboitd.ru/images/goods/big/20200129094216_Cvety_6-094.jpg);
+    }.nav li  {
+    
+   font-size: 25px;
+    display: inline-block;
+    margin-left: 100px;
+    color:inherit;
+
+}
+.nav2{margin: 5px auto;
+    text-align: center}
+    .up{text-align: center;
+    background-color: #0d2b2b;
+    font-size: x-large;
+}
+.up{ margin: 0 auto;
+    background-image: url(https://images.prom.ua/3720368816_w640_h640_foto-fon-vinilovyj-12075.jpg);}
+    .nav3{
+        
+        text-align: center ;
+        background-image: url(https://chelyabinsk.oboitd.ru/images/goods/big/20200129094216_Cvety_6-094.jpg);
+    font-size: 20px;
+
+    }
+    .nav3 li{
+        
+        font-size: 20px;
+        display: inline-block;
+        margin-left: 50px;
+        color:inherit;}
+        .nav,nav2{color:#1c3d1e;
+        }
+        .nav3{color:#153a2f
+        }
